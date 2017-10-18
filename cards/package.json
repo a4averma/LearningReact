@@ -1,0 +1,19 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "reactjs cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casstifer/LearningReact.git"
+  },
+  "author": "Aditya Verma",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/casstifer/LearningReact/issues"
+  },
+  "homepage": "https://github.com/casstifer/LearningReact#readme"
+}
