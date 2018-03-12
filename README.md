@@ -6,4 +6,5 @@ WIP
 
 ## Food Palace
 I made this to learn the concepts of CRUD in ReactJS and to understand how HTML5 Web Storage and realtime database with React works.
+<br/>
 Usage: Edit 'base.js' file to add your own Firebase API details.
