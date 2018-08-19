@@ -1,0 +1,19 @@
+.connected {
+  display: block;
+  background-color: green;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.disconnected {
+  display: block;
+  background-color: red;
+  border-radius: 50%;
+  width: 10px;
+  height: 10px;
+}
+
+.margin {
+  margin-left: 5px;
+}

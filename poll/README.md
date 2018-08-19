@@ -1,15 +1,4 @@
-# LearningReact
-List of projects that I have written while learning ReactJS.
-
-## Cards
-WIP
-
-## Food Palace
-I made this to learn the concepts of CRUD in ReactJS and to understand how HTML5 Web Storage and realtime database with React works.
-<br/>
-Usage: Edit 'base.js' file to add your own Firebase API details.
-
-## Polling App
+# Polling App
 #### Made with React, SocketIO, and Express
 
 ##### Usage
@@ -25,4 +14,3 @@ Use `npm start` to run the application. This will run the webpack on React sourc
 - Display the data using react-d3 or react-vis.
 - Persistent storage.
 - Better design and styling.
-
