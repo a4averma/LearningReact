@@ -1,3 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://yourOwnMongoDBUrl.com"
+  mongoURI: "link",
+  secret: 'verySecret'
 }
