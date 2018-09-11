@@ -3,8 +3,8 @@ const router = express.Router();
 import passport from 'passport';
 
 // Load Controllers
-import RegisterController from '../../controllers/auth/RegisterController';
-import LoginController from '../../controllers/auth/LoginController';
+import RegisterController from '../../app/controllers/auth/RegisterController';
+import LoginController from '../../app/controllers/auth/LoginController';
 
 /* 
 @route        GET api/posts/test

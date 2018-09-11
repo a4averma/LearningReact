@@ -24,3 +24,4 @@ chrome-user-data
 *.swo
 package-lock.json
 yarn.lock
+.env
