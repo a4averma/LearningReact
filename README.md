@@ -26,3 +26,17 @@ Use `npm start` to run the application. This will run the webpack on React sourc
 - Persistent storage.
 - Better design and styling.
 
+## Socials
+#### Made with MERN stack with Redux
+
+A mock of a typical social networking service written in MERN stack.
+
+##### To-do (Frontend)
+- Write the front-end with React and Redux
+
+##### To-do (Backend)
+- Write the post model
+- Follow/follower model
+- Ability to upload posts and check its mime type
+- Implement queues to defer time consuming tasks such as trasncoding the video
+- Automate the process of optimization of uploaded images.
